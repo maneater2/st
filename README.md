@@ -1,8 +1,12 @@
+# Compatible systems
+Linux, OpenBSD, FreeBSD
+
 # Installation
 ## Linux
 ```
 ./configure && make && sudo make install
 ```
+
 ## FreeBSD and OpenBSD
 ```
 ./configure && gmake && doas gmake install
