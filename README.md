@@ -3,14 +3,10 @@ Linux, OpenBSD, FreeBSD
 
 # Installation
 ## Linux
-```
-./configure && make && sudo make install
-```
+`./configure && make && sudo make install`
 
 ## FreeBSD and OpenBSD
-```
-./configure && gmake && doas gmake install
-```
+`./configure && gmake && doas gmake install`
 
 ## Software Made to Work With This
 - [DWM](https://github.com/maneater2/dwm)
